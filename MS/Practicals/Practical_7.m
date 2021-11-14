@@ -4,3 +4,4 @@ std_dev = std(X)
 covariance = cov(X)
 median = median(X)
 m = mean(X)
+[xds] = datastats(X);
